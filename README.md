@@ -288,7 +288,7 @@ Below a link will included for the solution of this task if you get stuck.
 
 
 
-<details><summary>2- Reading Mode Switch</summary>
+<details open><summary>2- Reading Mode Switch</summary>
 
 ## 2 Reading mode switch
 
@@ -381,7 +381,7 @@ As you can see above, there are two different messages within the serial monitor
 </details>
 
 
-<details><summary>3- Driving Motors</summary>
+<details open><summary>3- Driving Motors</summary>
 
 ## 3 Driving Motors
 
@@ -424,7 +424,7 @@ If you do not set the pinMode() to OUTPUT, and connect an LED to a pin, when cal
 </details>
 
 
-<details><summary>4- Motor Speed Control</summary>
+<details open><summary>4- Motor Speed Control</summary>
 
 ## 4 Motor Speed Control
 
@@ -477,7 +477,7 @@ for (int speed = 255; speed > 0; speed--){
 </details>
 
 
-<details><summary>5- Driving with functions</summary>
+<details open><summary>5- Driving with functions</summary>
 
 ## 5 Driving with Functions
 
@@ -521,7 +521,7 @@ void spinRight(){           // spins right with left motor going forward and rig
 </details>
 
 
-<details><summary>10- IR Receiver</summary>
+<details open><summary>10- IR Receiver</summary>
 
 ## 6 IR Receiver
 ### What is a switch…case?
