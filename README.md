@@ -37,7 +37,7 @@
   - [6 IR Receiver](#6-ir-receiver)
     - [What is a switch…case?](#what-is-a-switchcase)
 
-<details><summary>Introduction</summary>
+<details open><summary>Introduction</summary>
 
 ## Introduction
 
