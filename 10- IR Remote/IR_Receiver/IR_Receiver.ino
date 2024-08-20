@@ -1,7 +1,8 @@
-/*  Martin Hebel
-    Adapted from Elegoo Super Starter Code
+/*  IR REMOTE for Elegoo Robot Car 4
 
-    IR REMOTE for Elegoo Robot Car 4
+ *   Declan Clifford- Johnson, 2024
+ *   Part Four of AMRC STEM Robot Tutorial
+    Adapted from Martin Hebel, 2023- https://www.selmaware.com/
 
     Install IRremote.zip as a zip library
 

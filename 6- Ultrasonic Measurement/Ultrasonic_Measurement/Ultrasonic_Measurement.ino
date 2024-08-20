@@ -1,7 +1,10 @@
 /* 
   Ultrasonic_Measurement
   Modified from Elegoo's SR04_Example.ino in the SuperStarter Kit.
-  Martin Hebel, March 2023
+
+ *   Declan Clifford- Johnson, 2024
+ *   Part Four of AMRC STEM Robot Tutorial
+    Adapted from Martin Hebel, 2023- https://www.selmaware.com/
 
   Demonstrates operation of the ultrasonic sensor.
 

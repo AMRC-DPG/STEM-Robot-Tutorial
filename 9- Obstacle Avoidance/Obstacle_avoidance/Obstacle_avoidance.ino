@@ -1,6 +1,8 @@
-/*  
-    Obstacle_avoidance
-    Martin Hebel, March 2023
+/*   Obstacle_avoidance
+
+ *   Declan Clifford- Johnson, 2024
+ *   Part Four of AMRC STEM Robot Tutorial
+    Adapted from Martin Hebel, 2023- https://www.selmaware.com/
 
     Drives until an obstacle is noted, looks around, then turns towards most open area. 
     Based on code from Elegoo Robot Car V3

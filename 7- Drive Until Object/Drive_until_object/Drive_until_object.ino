@@ -1,6 +1,9 @@
 /*  Drive_until_object
     Uses Driving with Function
-    Martin Hebel, March 2023
+
+ *   Declan Clifford- Johnson, 2024
+ *   Part Four of AMRC STEM Robot Tutorial
+    Adapted from Martin Hebel, 2023- https://www.selmaware.com/
     
     Drives the car forward until the ultrasonic sensor detects an object, then turns
     

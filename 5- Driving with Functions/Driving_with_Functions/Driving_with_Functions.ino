@@ -1,6 +1,8 @@
-/*  
-    Driving_with_Functions
-    Martin Hebel, March 2023
+/*   Driving_with_Functions
+ *    
+ *   Declan Clifford- Johnson, 2024
+ *   Part Four of AMRC STEM Robot Tutorial
+    Adapted from Martin Hebel, 2023- https://www.selmaware.com/
     
     Demonstrates driving by calling functions to perform various car functions.
     Place on floor and press Mode switch to start

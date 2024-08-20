@@ -1,6 +1,8 @@
-/*  
-    Motor_Speed_Control
-    Martin Hebel, March 2023
+/* Motor_Speed_Control
+ *  
+ *  Declan Clifford- Johnson, 2024
+ *  Part Four of AMRC STEM Robot Tutorial
+    Adapted from Martin Hebel, 2023- https://www.selmaware.com/
 
     Demonstrates speed control of the TB6612FNG Dual H-Bridge Motor Driver    
     Download, unconnect cable, place on floor with room to drive (about 4 feet clearance in all directions)
