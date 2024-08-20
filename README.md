@@ -49,7 +49,7 @@ In this tutorial, you will learn the adapted coding language from C, called C++.
 
 
 
-<details><summary>Software to be used</summary>
+<details open><summary>Software to be used</summary>
 
 ## What software will be used?
 Within this tutorial, you are going to be using a software called ‘Arduino’. This software is going to act as a compiler for your code and allow you to verify/ upload and run code into the robot. The software for the Arduino should already be installed, but just in case, the links are included below.
@@ -80,7 +80,7 @@ Upon opening the Arduino software, This is how the software should look.
 
 
 
-<details><summary>Setting up software</summary>
+<details open><summary>Setting up software</summary>
 
 ## How to set up the robot with the software?
 Before you upload any code to the board, make sure that the board is in upload mode. This ensures that the board is not attempting to communicate with the camera. See the image below.
@@ -101,7 +101,7 @@ As well as this, you will also need to select the correct port that the robot wi
 
 
 
-<details><summary>0- Installing the library</summary>
+<details open><summary>0- Installing the library</summary>
 
 ## What are libraries?
 
@@ -123,7 +123,7 @@ After uploading and verifying the library into the compiler, you can enter the c
 
 
 
-<details><summary>Data types</summary>
+<details open><summary>Data types</summary>
 
 ## Data Types 
 
@@ -133,7 +133,7 @@ Throughout the course of this tutorial you will use a variety of different data 
 
 
 
-<details><summary>1- Controlling the LED</summary>
+<details open><summary>1- Controlling the LED</summary>
 
 ## 1 Controlling the LED
 
