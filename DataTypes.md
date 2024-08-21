@@ -36,7 +36,11 @@ A uint is used to process shorter positive numbers. A good way of being able to 
 
 <details><summary>Double data type</summary>
 
-#### double
+#### Double
+
+Double is a data type within the C coding language which has the capability of storing  8 bytes (64 bits) of memory. It helps in storing high- precision sorts of floating- point numbers or data in the computer memory. It is known as the double data type becuase it is able to store double the size of info and data in comparison to the float data type. The double data stores data from 1.7 x10 ^-308 to 2.3 x10 ^+308 numbers.
+
+
 
 </details>
 
@@ -45,6 +49,8 @@ A uint is used to process shorter positive numbers. A good way of being able to 
 
 #### float
 
+Floats are another data storing value which can store up to 4 bytes (32 bits) of memory. The float data type has a number range of 1.2 x10 ^-38 to 3.4 x10^38. Float is a data type which can store floating point numbers, which are numbers that have a decimal point. Floats can store negative and positive numbers with a decimal point.
+
 </details>
 
 
@@ -52,11 +58,15 @@ A uint is used to process shorter positive numbers. A good way of being able to 
 
 #### char
 
+The char data type is ideal for storing single character values. 
+
 </details>
 
 
 <details><summary>String data type</summary>
 
 #### string
+
+Typically a string is a sequence of characters which form some sort of variable.
 
 </details>
