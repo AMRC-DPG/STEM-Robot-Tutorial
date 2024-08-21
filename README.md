@@ -264,7 +264,6 @@ Void setup is the startup of when a sketch (Arduinos IDE software) is first crea
 
 ### Advanced
 
-### advanced555
 
 if you have successfully changed the colour of the LED, have a go at connecting this change in LED to the switch on the robot. You can use whatever colour you would like to make it more personal to you.
 
