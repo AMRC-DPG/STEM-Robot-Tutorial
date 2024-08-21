@@ -18,20 +18,23 @@
     - [What is a void?](#what-is-a-void)
     - [What is a loop?](#what-is-a-loop)
     - [What does Void setup mean?](#what-does-void-setup-mean)
-    - [Advanced](#advanced)
-    - [advanced555](#advanced555)
+    - [Task](#task)
   - [2 Reading mode switch](#2-reading-mode-switch)
     - [What is a bool(ean)?](#what-is-a-boolean)
     - [What is an if statement?](#what-is-an-if-statement)
     - [What is a print?](#what-is-a-print)
     - [What is a serial monitor?](#what-is-a-serial-monitor)
+    - [Task](#task-1)
+    - [Task 2- Advanced](#task-2--advanced)
   - [3 Driving Motors](#3-driving-motors)
     - [What is a delay?](#what-is-a-delay)
     - [What is digital write?](#what-is-digital-write)
+    - [Task- Drive in square](#task--drive-in-square)
   - [4 Motor Speed Control](#4-motor-speed-control)
     - [What is analog write?](#what-is-analog-write)
     - [What is a while loop?](#what-is-a-while-loop)
     - [What is a for loop?](#what-is-a-for-loop)
+    - [Task](#task-2)
   - [5 Driving with Functions](#5-driving-with-functions)
     - [What is a function?](#what-is-a-function)
   - [6 IR Receiver](#6-ir-receiver)
@@ -434,6 +437,11 @@ If you do not set the pinMode() to OUTPUT, and connect an LED to a pin, when cal
 
 ### Task- Drive in square
 
+Try and get the robot to drive forwards and turn after driving forwards, whilst also creating the shape of a square. 
+
+If you are struggling with this section, please go to the solutions page and navigate to the solution for this task.
+
+[Driving in a square](/Solutions.md#driving-in-a-square)
 
 </details>
 
@@ -487,6 +495,14 @@ for (int speed = 255; speed > 0; speed--){
 ```
 
 </details>
+
+### Task
+
+For this task, try and drive the robot in the shape of a circle.*Hint* you will need to drive the wheels at different speeds in order to carry this task out successfully.
+
+Below will be a link to the solution for this task.
+
+[Driving in a circle](/Solutions.md#driving-in-a-circle)
 
 </details>
 
