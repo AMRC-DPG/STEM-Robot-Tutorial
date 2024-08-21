@@ -20,11 +20,9 @@
 // Define the array of leds
 CRGB leds[NUM_LEDS];
 
-
-
-
 #define modeSwitch 2     // Define pin of Mode Switch
 bool modeSwitchState;   // Holds state of mode switch
+
 
 // Setup runs once on reset or power-up
 void setup() {
@@ -37,11 +35,10 @@ void setup() {
   Serial.begin(9600);             // Begin serial communications at 9600 baud
 }
 
+
 // Loop runs forever
 void loop() {
 
-
-  
   // Serial.print() does not go to a new line, Serial.println() will go to next line after printing
 
   modeSwitchState = digitalRead(modeSwitch);  // read mode switch and store in modeSwitch State

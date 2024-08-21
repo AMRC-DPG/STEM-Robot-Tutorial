@@ -248,7 +248,6 @@ void loop() {
   FastLED.setBrightness(30);       // Set the brightness, 0 to 255 - Warning: 255 can be VERY bright
   
   leds[0] = CRGB::Yellow;            // Set Color with name - Erase Azure and press CTRL-Space for choices
-  // leds[0] = CRGB(128,0,0);       // OR, Set color with amount of Red, Green and Blue, 0 to 255 each
   FastLED.show();                   // Set the LED to show
   delay(500);                       // Wait 1/2 second
   
@@ -261,15 +260,13 @@ void loop() {
 ### What does Void setup mean?
 Void setup is the startup of when a sketch (Arduinos IDE software) is first created. It initialises the configuration of variables, pin modes and libraries. 
 
+### Task
 
-### Advanced
+Try changing the colour and attempt at making the LED flash through multiple colours. You can also try and change the brightness of the LED to make the colours stand out more.
 
+If you are struggling with this task, below is a link to the solution to help you with this.
 
-if you have successfully changed the colour of the LED, have a go at connecting this change in LED to the switch on the robot. You can use whatever colour you would like to make it more personal to you.
-
-Below a link will included for the solution of this task if you get stuck.
-
-[text](/Solutions.md#rgb-advanced-task)
+[RGB LED Task](/Solutions.md#rgb-led-task)
 
 </details>
 
@@ -377,6 +374,20 @@ The serial monitor is a tool within the Arduino IDE which opens up the communica
 
 As you can see above, there are two different messages within the serial monitor. When the switch on the robot has not been pressed, we get a message telling us “switch not pressed” but when the switch has been pressed, a message returns saying “switch pressed”.
 
+### Task
+
+Have a go at changing the message that is outputted to the serial monitor.
+
+
+### Task 2- Advanced
+
+
+if you have successfully changed the colour of the LED, have a go at connecting this change in LED to the switch on the robot. You can use whatever colour you would like to make it more personal to you.
+
+Below a link will included for the solution of this task if you get stuck.
+
+[Switch Advanced Task](/Solutions.md#switch-advanced-task)
+
 </details>
 
 
@@ -419,6 +430,10 @@ If the pin has been configured as an OUTPUT with pinMode(), its voltage will be 
 If the pin is configured as an INPUT, digitalWrite() will enable (HIGH) or disable (LOW) the internal pullup on the input pin. It is recommended to set the pinMode() to INPUT_PULLUP to enable the internal pull-up resistor. 
 
 If you do not set the pinMode() to OUTPUT, and connect an LED to a pin, when calling digitalWrite(HIGH), the LED may appear dim. Without explicitly setting pinMode(), digitalWrite() will have enabled the internal pull-up resistor, which acts like a large current-limiting resistor.
+
+
+### Task- Drive in square
+
 
 </details>
 

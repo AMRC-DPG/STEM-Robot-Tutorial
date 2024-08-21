@@ -1,8 +1,4 @@
-# Further Learning
-
-## Data Types
-
-[text](DataTypes.md)
+# Advanced Solutions
 
 
 ## Ultrasonic Measurement- LED to indicate distance
@@ -12,3 +8,4 @@
 
 
 ## Position servo- Use servo to make decision on which way to turn *task for obstacle avoidance*
+
