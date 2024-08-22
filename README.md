@@ -558,7 +558,7 @@ Within this task, you should drive the robot in a square going clockwise and ant
 
 <details open><summary>10- IR Receiver</summary>
 
-## 6 IR Receiver
+## 10 IR Receiver
 ### What is a switch…case?
 Like if statements, switch case controls the flow of programs by allowing programmers to specify different code that should be executed in various conditions. In particular, a switch statement compares the value of a variable to the values specified in case statements. When a case statement is found whose value matches that of the variable, the code in that case statement is run.
 The break keyword exits the switch statement, and is typically used at the end of each case. Without a break statement, the switch statement will continue executing the following expressions ("falling-through") until a break, or the end of the switch statement is reached. In the scenario below,  a switch case is used so that code can be written to the individual buttons on the remote controller for the robot.
