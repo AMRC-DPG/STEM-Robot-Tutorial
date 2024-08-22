@@ -548,6 +548,11 @@ void spinRight(){           // spins right with left motor going forward and rig
 
 </details>
 
+### Task- Drive in a square (anti/clockwise)
+
+Within this task, you should drive the robot in a square going clockwise and anti-clockwise. You should do this with the use of functions.
+
+
 </details>
 
 

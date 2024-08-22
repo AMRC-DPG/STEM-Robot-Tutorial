@@ -2,7 +2,7 @@
 
 ## Data Types
 
-[text](DataTypes.md)
+[Data Types](DataTypes.md)
 
 
 ## Ultrasonic Measurement- LED to indicate distance
