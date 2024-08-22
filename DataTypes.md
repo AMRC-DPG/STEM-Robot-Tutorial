@@ -1,8 +1,8 @@
-## Data Types
+# Data Types
 
 <details><summary>6- Ultrasonic Measurement| Long data type</summary>
 
-### 6 Ultrasonic Measurement
+## 6 Ultrasonic Measurement
 
 ### What is a long data type?
 
@@ -12,7 +12,7 @@ A long data type (64 bit) is used when we are dealing with numbers that are long
 long distance;
 ```
 
-#### What is a ulong data type?
+### What is a ulong data type?
 
 Despite not being used within this tutorial, it is ideal that you are aware of the alternative to a long data type which is still similar. This is a ulong data type, and that is another data type which can process a wider range of numbers than an int (0 to 18, 446, 744, 073, 709, 551, 615)
 </details>
@@ -20,9 +20,9 @@ Despite not being used within this tutorial, it is ideal that you are aware of t
 
 <details><summary>7- Drive until object| int data type</summary>
 
-### 7- Drive until object
+## 7- Drive until object
 
-#### What is an int data type?
+### What is an int data type?
 
 int, or integers, are the primary data type used to store numbers. However, they are not able to store as wide a range of numbers as the long data type can. The range in which the int data type can process is (–2, 147, 483, 648 to 2, 147, 483, 647), this means that it can process negative numbers, but not quite to as much as the long data type can. An int is used when we don't quite need to process a big number.
 
@@ -30,7 +30,7 @@ int, or integers, are the primary data type used to store numbers. However, they
 int speedLeft = 0;  // holds the speed of left wheels
 ```
 
-#### What is a Uint data type?
+### What is a Uint data type?
 
 A uint is used to process shorter positive numbers. A good way of being able to understand this is that it is the shorter or less capable version of the Ulong data type. This data type has a data processing range of (0 to 4, 294, 967, 295)
 
@@ -39,7 +39,7 @@ A uint is used to process shorter positive numbers. A good way of being able to 
 
 <details><summary>Double data type</summary>
 
-#### Double
+### Double
 
 The double data type is used when you are needing to store a decimal point number that is quite long. The advantage that the double data type offers is that you can store very precise numbers. See the example down below.
 
@@ -62,7 +62,7 @@ This data type is capable of storing 8 bytes (64 bits) of memory. A good way of 
 
 <details><summary>Float data type</summary>
 
-#### float
+### float
 
 Floats are used to store floating- point numbers which are just numbers with a decimal point. They can store up to 4 bytes of memory which is half of that of a double data type. See the example of a float being used down below.
 
@@ -83,7 +83,7 @@ Floats are used to store floating- point numbers which are just numbers with a d
 
 <details><summary>Char data type</summary>
 
-#### char
+### char
 
 The char data type is ideal for storing single character values. 
 
@@ -107,7 +107,7 @@ Below is an example of a char being used.
 
 <details><summary>String data type</summary>
 
-#### string
+### string
 
 Typically a string is a sequence of characters which form some sort of variable.
 
